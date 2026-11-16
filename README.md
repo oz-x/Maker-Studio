@@ -113,13 +113,13 @@ compilar los scripts de cada proyecto.
 **Linux y Mac:**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/evilrender23/Maker-Studio/main/instalar.sh | bash
+curl -fsSL https://raw.githubusercontent.com/oz-x/Maker-Studio/main/instalar.sh | bash
 ```
 
 **Windows** (PowerShell):
 
 ```powershell
-irm https://raw.githubusercontent.com/evilrender23/Maker-Studio/main/instalar.ps1 | iex
+irm https://raw.githubusercontent.com/oz-x/Maker-Studio/main/instalar.ps1 | iex
 ```
 
 También desde un clon: `bash Maker-Studio/instalar.sh` o
