@@ -7,7 +7,7 @@ version = "0.1.0"
 edition = "2024"
 license = "MIT"
 authors = ["EvilRender23"]
-repository = "https://github.com/EvilRender23/Maker-Studio"
+repository = "https://github.com/oz-x/Maker-Studio"
 
 [workspace.dependencies]
 maker_api = { path = "crates/maker_api" }
