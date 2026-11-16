@@ -6,7 +6,7 @@ members = ["crates/maker_api", "crates/maker_engine", "crates/maker_render", "cr
 version = "0.1.0"
 edition = "2024"
 license = "MIT"
-authors = ["EvilRender23"]
+authors = ["Oz-X"]
 repository = "https://github.com/oz-x/Maker-Studio"
 
 [workspace.dependencies]

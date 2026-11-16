@@ -233,9 +233,9 @@ sustancial del código debe conservar el aviso de copyright y el texto de la
 licencia:
 
 ```
-Copyright (c) 2026 EvilRender23
+Copyright (c) 2026 Oz-X
 ```
 
 Si usas Maker Studio o parte de su código en tu proyecto, incluye un crédito
-visible, por ejemplo: "Basado en Maker Studio de EvilRender23
+visible, por ejemplo: "Basado en Maker Studio de Oz-X
 (https://github.com/oz-x)".

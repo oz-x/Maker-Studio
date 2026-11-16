@@ -1,4 +1,4 @@
-//! Maker Studio — editor 3D. MIT © EvilRender23.
+//! Maker Studio — editor 3D. MIT © Oz-X.
 
 mod agente;
 mod animator_ui;

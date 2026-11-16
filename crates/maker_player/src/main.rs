@@ -1,5 +1,5 @@
 //! maker-player — ejecuta un proyecto de Maker Studio sin editor (el binario
-//! que se distribuye al exportar un juego). MIT © EvilRender23.
+//! que se distribuye al exportar un juego). MIT © Oz-X.
 
 use egui::{Color32, Pos2, Rect};
 use maker_api::Key;
